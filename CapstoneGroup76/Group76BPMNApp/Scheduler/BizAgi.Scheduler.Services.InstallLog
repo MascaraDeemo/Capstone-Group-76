@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\Sam\Desktop\Bizagi\CapstoneGroup76\Group76BPMNApp\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiGroup76BPMNAppSchedulerService
+   assemblypath = C:\Users\Sam\Desktop\Bizagi\CapstoneGroup76\Group76BPMNApp\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Users\Sam\Desktop\Bizagi\CapstoneGroup76\Group76BPMNApp\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Installing service BizAgiGroup76BPMNAppSchedulerService...
+Service BizAgiGroup76BPMNAppSchedulerService has been successfully installed.
+Creating EventLog source BizAgiGroup76BPMNAppSchedulerService in log Application...
+Committing assembly 'C:\Users\Sam\Desktop\Bizagi\CapstoneGroup76\Group76BPMNApp\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiGroup76BPMNAppSchedulerService
+   assemblypath = C:\Users\Sam\Desktop\Bizagi\CapstoneGroup76\Group76BPMNApp\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Users\Sam\Desktop\Bizagi\CapstoneGroup76\Group76BPMNApp\Scheduler\BizAgi.Scheduler.Services.InstallLog
