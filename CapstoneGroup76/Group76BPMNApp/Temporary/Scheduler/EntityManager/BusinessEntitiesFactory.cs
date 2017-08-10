@@ -34,6 +34,18 @@ namespace BizAgi.EntityManager.Entities {
                 return new LANGUAGE();
             case "USERSTARTPAGE":
                 return new USERSTARTPAGE();
+            case "App":
+                return new App();
+            case "ToBeModel":
+                return new ToBeModel();
+            case "Client":
+                return new Client();
+            case "StatusType":
+                return new StatusType();
+            case "Employee":
+                return new Employee();
+            case "Resolution":
+                return new Resolution();
             }
 
             throw new Exception("Class not found." + className); 
